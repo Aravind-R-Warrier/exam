@@ -1,0 +1,20 @@
+
+.banner-2{
+background-color: rgb(229, 219, 18);
+}
+
+hr{
+    border-width: 3px;
+    width: 265px;
+    margin-left: 230px;
+}
+a{
+    text-decoration: none;
+}
+
+.footer-1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
